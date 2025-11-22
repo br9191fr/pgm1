@@ -1,0 +1,1 @@
+Starting projetc in Java with Temurin 25
