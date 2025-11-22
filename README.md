@@ -1,1 +1,1 @@
-Starting projetc in Java with Temurin 25
+Starting project in Java with Temurin 25
